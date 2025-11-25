@@ -53,6 +53,3 @@ Core features include:
 - Understanding game feel & polish
 
 ---
-
-## 🤝 Let's connect
-If you want to discuss game dev ideas or collaborate, feel free to reach out!  
