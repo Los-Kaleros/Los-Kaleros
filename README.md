@@ -9,17 +9,27 @@
 
 ---
 
-## 🔧 Technologies & Tools
-- **Game Engines:** Unity (C#)  
-- **Game Dev Skills:**  
-  - Pixel art basics  
-  - Top-down movement & shooting systems  
-  - Dynamic weapon data loading (JSON-based)  
-  - Sprite flipping & animation logic  
-- **General Programming:**  
-  - C# fundamentals  
-  - JSON data manipulation  
-  - Object-oriented programming concepts  
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🌐 Web Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🔧 Other Skills
+- JSON data workflow (loading weapon stats, game configs)
+- Git / GitHub
+- Basic pixel art for top-down 2D games
 
 ---
 
@@ -43,3 +53,6 @@ Core features include:
 - Understanding game feel & polish
 
 ---
+
+## 🤝 Let's connect
+If you want to discuss game dev ideas or collaborate, feel free to reach out!  
