@@ -1,55 +1,24 @@
-# Hi there 👋
+# Kristián Válek
 
-### I'm an aspiring game developer & programmer
+Informatics student at VŠB-TU Ostrava (FEI), 2nd year. Slovak, based in Ostrava.
 
-👨‍💻 **Currently learning:** Unity, C#, game architecture  
-🎮 **Working on:** 2D top-down pixel-art survival game with dynamic weapon systems  
-🧩 **Strengths:** Strong spatial reasoning, creativity, and a passion for technical problem-solving  
-🌱 **Goal:** Improve as a developer and build more complex, polished systems in Unity
+## What I've built
 
----
+| Project | What it is | Stack |
+|---|---|---|
+| [The Day We Die](https://github.com/Los-Kaleros/the-day-we-die) | 2D top-down extraction shooter, high-school graduation project: grid inventory, enemy AI, survival systems, JSON-driven items and weapons | Unity 6, C# |
+| [Rentio](https://github.com/Los-Kaleros/Rentio) | Short-term rental marketplace, team university project (3 people) | React, Flask, PostgreSQL, Docker |
+| [TGA compressor](https://github.com/Los-Kaleros/TGA-image-compressor-and-decompressor) | Block-based RLE compression of TGA images, written from scratch | C |
+| [MultiAgent](https://github.com/Los-Kaleros/MultiAgent) | Local LLM agents that generate and fix C code until it passes a test suite | Python, vLLM |
 
-## 🛠️ Skills & Technologies
+## Languages and tools
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+C, C++, Python, Java, C#, JavaScript, SQL, Git, Docker. More detail in each project's README.
 
-### 🌐 Web Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## Currently
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+Java (JavaFX) semester project, algorithms, databases. Looking for an IT internship or junior role.
 
-### 🔧 Other Skills
-- JSON data workflow (loading weapon stats, game configs)
-- Git / GitHub
-- Basic pixel art for top-down 2D games
+## Contact
 
----
-
-## 🎮 Current Game Project
-I'm developing a **2D top-down survival game** with a gloomy, misty atmosphere.  
-Core features include:
-
-- ✔️ Player movement & shooting towards the mouse  
-- ✔️ Gun rendering on shoulders (with flipping & hiding logic)  
-- ✔️ Weapon stats loaded from JSON (reload time, magazine size, type, etc.)  
-- ✔️ Player choosing between guns like AK-47, pistol, shotgun  
-- 🧪 WIP: improved effects, better AI, cleaner architecture
-
----
-
-## 📚 What I'm focusing on
-- Mastering Unity workflow  
-- Creating clean, modular C# code  
-- Level design in top-down environments  
-- Better pixel-art asset creation  
-- Understanding game feel & polish
-
----
+[LinkedIn](https://www.linkedin.com/) · email on request
