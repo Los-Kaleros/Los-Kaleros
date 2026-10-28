@@ -18,7 +18,3 @@ C, C++, Python, Java, C#, PHP, SQL, Git. More detail in each project's README.
 ## Currently
 
 Java (JavaFX) semester project, algorithms, databases. Looking for an IT internship or junior role.
-
-## Contact
-
-valekkristian2@gmail.com
