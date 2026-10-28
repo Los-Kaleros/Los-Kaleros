@@ -1,17 +1,22 @@
 <h1 align="center">Kristián Válek</h1>
-<p align="center">Informatics student · VŠB-TU Ostrava</p>
+<p align="center"><b>Informatics student</b> at VŠB-TU Ostrava (FEI) · Slovakia</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs,php,js,html,css,unity,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs&perline=5" /><br/>
+  <sub>Languages I write projects in</sub>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,git,html,css,php,js&perline=6" /><br/>
+  <sub>Tools & web</sub>
 </p>
 
-## What I've built
+## Featured work
 
-| Project | What it is | Stack |
+| | Project | Stack |
 |---|---|---|
-| [The Day We Die](https://github.com/Los-Kaleros/the-day-we-die) | 2D top-down extraction shooter, high-school graduation project: grid inventory, enemy AI, survival systems, JSON-driven items and weapons | Unity 6, C# |
-| [TGA compressor](https://github.com/Los-Kaleros/tga-jbk-compressor) | Block-based RLE compression of TGA images, written from scratch | C |
-| [MultiAgent](https://github.com/Los-Kaleros/llm-c-code-agents) | Local LLM agents that generate and fix C code until it passes a test suite | Python, vLLM |
+| 🎮 | [The Day We Die](https://github.com/Los-Kaleros/the-day-we-die): 2D extraction shooter, graduation project | Unity 6, C# |
+| 🗜️ | [TGA compressor](https://github.com/Los-Kaleros/tga-jbk-compressor): block-based RLE image compression | C |
+| 🤖 | [LLM C-code agents](https://github.com/Los-Kaleros/llm-c-code-agents): agents that generate and fix C code until tests pass | Python, vLLM |
 
 ## Currently
 
