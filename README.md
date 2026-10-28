@@ -13,7 +13,7 @@ Informatics student at VŠB-TU Ostrava (FEI), 2nd year. Slovak, based in Ostrava
 
 ## Languages and tools
 
-C, C++, Python, Java, C#, JavaScript, SQL, Git, Docker. More detail in each project's README.
+C, C++, Python, Java, C#, PHP, SQL, Git. More detail in each project's README.
 
 ## Currently
 
@@ -21,4 +21,4 @@ Java (JavaFX) semester project, algorithms, databases. Looking for an IT interns
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/) · email on request
+valekkristian2@gmail.com
