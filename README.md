@@ -1,5 +1,5 @@
 <h1 align="center">Kristián Válek</h1>
-<p align="center"><b>Informatics student</b> at VŠB-TU Ostrava (FEI) · Slovakia</p>
+<p align="center"><b>Informatics student</b> at VŠB-TU Ostrava (FEI)</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs&perline=5" /><br/>
